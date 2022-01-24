@@ -20,6 +20,8 @@ const app = initializeApp(firebaseConfig);
 
 export const db = getFirestore();
 
+export const REACT_APP_GOOGLE_MAPS_API_KEY =
+  "AIzaSyBtXdcbiSrd9_llh8Or_EdlCEphC3xubFQ";
 //firebase - original
 
 // rules_version = '2';
